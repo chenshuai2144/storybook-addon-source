@@ -1,6 +1,6 @@
 {
   "name": "@storybook/addon-source",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A panel that displays a code in a storybook",
   "license": "MIT",
   "main": "index.js",
@@ -14,7 +14,8 @@
   },
   "files": [
     "index.js",
-    "options.json"
+    "react.js",
+    "register.js"
   ],
   "peerDependencies": {
     "webpack": "^4.3.0"
