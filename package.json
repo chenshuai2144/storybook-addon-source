@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-source",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A panel that displays a code in a storybook",
   "license": "MIT",
   "main": "index.js",
