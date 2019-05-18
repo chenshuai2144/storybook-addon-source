@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-source",
-  "version": "1.0.7",
+  "version": "2.0.7",
   "description": "A panel that displays a code in a storybook",
   "license": "MIT",
   "engines": {
@@ -22,8 +22,8 @@
     "webpack": "^4.3.0"
   },
   "dependencies": {
-    "@storybook/addons": "^4.1.4",
-    "@storybook/components": "^4.1.4",
+    "@storybook/addons": "^5.0.0",
+    "@storybook/components": "^5.0.0",
     "react": "^16.7.0",
     "react-syntax-highlighter": "^10.1.2"
   },
