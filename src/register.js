@@ -1,6 +1,5 @@
 import React from 'react';
 import addons from '@storybook/addons';
-import { monoFonts } from '@storybook/components';
 
 import { darcula } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import jsx from 'react-syntax-highlighter/dist/esm/languages/prism/jsx';
@@ -18,7 +17,6 @@ const highlighterTheme = {
     overflow: 'hidden',
     boxSizing: 'border-box',
     display: 'flex',
-    fontFamily: monoFonts.fontFamily,
     fontSize: 'inherit',
   },
   'code[class*="language-"]': {
