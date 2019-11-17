@@ -26,9 +26,13 @@
       "git add"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenshuai2144/storybook-addon-source"
+  },
   "dependencies": {
-    "@storybook/addons": "^5.0.0",
-    "@storybook/components": "^5.0.0",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/components": "^5.2.6",
     "react": "^16.7.0",
     "react-syntax-highlighter": "^10.1.2"
   },
